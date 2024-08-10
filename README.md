@@ -7,7 +7,7 @@ O DT Money é uma aplicação de controle financeiro desenvolvida para ajudar os
 
 ### Veja o projeto online
 
- <!-- ✅  https://ignite-timer-react-rocketseat.vercel.app/ -->
+ ✅ https://dt-money-react-rocketseat.vercel.app/  
 
 ### Tecnologias Utilizadas
 
